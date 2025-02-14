@@ -55,11 +55,11 @@
 
 ## Tips
 
-- fish 関数の配置場所: `~/.config/fish/functions/`
+- fish 関数の配置場所は`~/.config/fish/functions/`
 - オプション解析には `argparse` を優先的に使用
-- カラー出力: `set_color` を使用（normal, red, green, yellow, blue, cyan など）
-- 出力の整形: `printf` を活用した綺麗な整列
-- エラー処理: 適切なステータスコードでの終了（`return 1` など）
+- カラー出力は`set_color` を使用（normal, red, green, yellow, blue, cyan など）
+- 出力の整形は`printf` を活用した綺麗な整列
+- エラー処理は適切なステータスコードでの終了（`return 1` など）
 
 ## 参考
 
