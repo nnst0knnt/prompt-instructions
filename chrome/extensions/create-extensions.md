@@ -162,7 +162,7 @@ Chrome 拡張機能の開発プロジェクト。TypeScript、Vite を活用し�
 
 ## Tips
 
-- Chrome 拡張機能のデバッグ: chrome://extensions/
+- Chrome 拡張機能のデバッグは chrome://extensions/
 - Vite 開発サーバーの活用
 
 ## 参考資料
